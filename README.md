@@ -1,4 +1,4 @@
-# Career Project Website
+# Lorenzo's Career Project Website
 
 See the rubric at [bit.ly/CareerWebsiteRubric](https://bit.ly/CareerWebsiteRubric) or in Google classroom See some [example projects here](https://drive.google.com/file/d/1m6nxpGgG-QvoGtSwoHubN9UZl6rLmrMo/view).
 
